@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -6,6 +6,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Ast.fs"/>
+        <Compile Include="Tokenizer.fs"/>
+        <Compile Include="Parseur.fs"/>
+        <Compile Include="Evaluateur.fs"/>
         <Compile Include="Program.fs"/>
     </ItemGroup>
 

@@ -27,3 +27,4 @@
 /Users/baldeousmane/Desktop/ProjetTech/pseudoLisp/pseudoLisp/obj/Debug/net8.0/pseudoLisp.pdb
 /Users/baldeousmane/Desktop/ProjetTech/pseudoLisp/pseudoLisp/obj/Debug/net8.0/pseudoLisp.genruntimeconfig.cache
 /Users/baldeousmane/Desktop/ProjetTech/pseudoLisp/pseudoLisp/obj/Debug/net8.0/ref/pseudoLisp.dll
+/Users/baldeousmane/Desktop/ProjetTech/pseudoLisp/pseudoLisp/obj/Debug/net8.0/pseudoLisp.sourcelink.json

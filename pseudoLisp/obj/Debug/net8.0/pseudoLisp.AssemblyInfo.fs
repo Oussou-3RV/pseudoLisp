@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("pseudoLisp")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edc79d661c1f17a70dd81f063387828b353793c")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("pseudoLisp")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("pseudoLisp")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
