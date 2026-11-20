@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2FcFYi1Upg=",
+  "success": true,
+  "projectFilePath": "/Users/baldeousmane/Desktop/ProjetTech/pseudoLisp/pseudoLisp/pseudoLisp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/baldeousmane/.nuget/packages/fsharp.core/8.0.400/fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
